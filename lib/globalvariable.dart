@@ -9,10 +9,10 @@ import 'package:google_maps_flutter/google_maps_flutter.dart';
 
 import 'brand_colors.dart';
 
-String mapKey = 'AIzaSyCkpnKQIETL6dgxy1C1lUrlGz3mt7tZlZk';
+String mapKey = 'your map key';
 User currentFirebaseUser;
 UserApp currentUserInfo;
-String serverKey = 'key=AAAAPjARrws:APA91bGv3H5evlubv5EpCfutijebUedw8O5Q7l0E8xWP_RJhstMF5R6mdZxnsRmr7s-FFpxZ_0IPZWF5I051cNqjr8UGa0yFYbfAe4OI2iSME0EogGhqJTDHHcHvyGfPbsCS2FgNwhRQ';
+String serverKey = 'your server key';
 CameraPosition kGooglePlex = CameraPosition(
   target: LatLng(37.42796133580664, -122.085749655962),
   zoom: 14.4746,);
