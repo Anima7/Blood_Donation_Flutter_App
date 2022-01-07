@@ -17,14 +17,14 @@ Future<void> main() async {
     options: Platform.isIOS || Platform.isMacOS
         ? FirebaseOptions(
       appId: '1:297855924061:ios:c6de2b69b03a5be8',
-      apiKey: 'AIzaSyD_shO5mfO9lhy2TVWhfo1VUmARKlG4suk',
+      apiKey: 'your api key',
       projectId: 'flutter-firebase-plugins',
       messagingSenderId: '297855924061',
       databaseURL: 'https://flutterfire-cd2f7.firebaseio.com',
     )
         : FirebaseOptions(
       appId: '1:267094437643:android:7f2695c1918b17caa4fc0e',
-      apiKey: 'AIzaSyCkpnKQIETL6dgxy1C1lUrlGz3mt7tZlZk',
+      apiKey: 'your api key',
       messagingSenderId: '267094437643',
       projectId: 'bdonor-80a65',
       databaseURL: 'https://bdonor-80a65-default-rtdb.firebaseio.com',
