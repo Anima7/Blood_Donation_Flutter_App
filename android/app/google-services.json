@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "267094437643",
+    "firebase_url": "https://bdonor-80a65-default-rtdb.firebaseio.com",
+    "project_id": "bdonor-80a65",
+    "storage_bucket": "bdonor-80a65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:267094437643:android:7f2695c1918b17caa4fc0e",
+        "android_client_info": {
+          "package_name": "com.example.bdf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "267094437643-oik8fgrh0l6ki36jvagfk0609ukkbg9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkpnKQIETL6dgxy1C1lUrlGz3mt7tZlZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "267094437643-oik8fgrh0l6ki36jvagfk0609ukkbg9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
