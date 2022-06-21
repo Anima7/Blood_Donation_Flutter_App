@@ -1,16 +1,19 @@
 # bdf
 
-A new Flutter application.
+A Blood Donor Finder Flutter application.
 
-## Getting Started
+## Overview
 
-This project is a starting point for a Flutter application.
+This Project can find Donor in real time. You can donate and request for donation in this application.
 
-A few resources to get you started if this is your first Flutter project:
+Find Nearby Donor in real time and show you the location of the donor in map.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Complete all the major functionalities but not personalize it.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Using Firebase real Time database it can update the results(location and available donors near you) in real time.
+
+you can just enter the desired blood group it will automatically send request to all donors near by you.
+
+If you wish to donate blood and simply press a button and you will be available for donation.
+
+By becoming a donor you will recieve notification and text message from the blood seeker near by you
